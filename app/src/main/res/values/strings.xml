@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FIFA18</string>
+    <string name="update_fixture">update fixture</string>
+    <string name="add_new_fixture">ADD NEW FIXTURE</string>
+    <string name="todo">TODO</string>
+    <string name="click_to_enter">click to enter</string>
+</resources>
